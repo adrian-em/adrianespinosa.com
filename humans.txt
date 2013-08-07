@@ -1,0 +1,19 @@
+
+   #     #######   #####   ######   #######  #     #  #     #
+  # #    #        #     #  #     #     #     #     #   #   #
+ #   #   #        #        #     #     #     #     #    # #
+#     #  #####     #####   ######      #     #     #     #
+#######  #              #  #           #     #     #    # #
+#     #  #        #     #  #           #     #     #   #   #
+#     #  #######   #####   #           #      #####   #     #
+
+
+# DEVELOPER
+	Adrian Espinosa - @aesptux
+
+
+
+# TECHNOLOGY
+	Twitter Bootstrap
+	HTML
+	Sublime Text 2
